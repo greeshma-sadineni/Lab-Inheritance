@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Inheritance\Random List\bin\Debug\netcoreapp3.1\Random List.exe
+F:\.Net Programs\Lab Inheritance\Random List\bin\Debug\netcoreapp3.1\Random List.deps.json
+F:\.Net Programs\Lab Inheritance\Random List\bin\Debug\netcoreapp3.1\Random List.runtimeconfig.json
+F:\.Net Programs\Lab Inheritance\Random List\bin\Debug\netcoreapp3.1\Random List.runtimeconfig.dev.json
+F:\.Net Programs\Lab Inheritance\Random List\bin\Debug\netcoreapp3.1\Random List.dll
+F:\.Net Programs\Lab Inheritance\Random List\bin\Debug\netcoreapp3.1\Random List.pdb
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.AssemblyInfo.cs
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.dll
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.pdb
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.genruntimeconfig.cache
+F:\.Net Programs\Lab Inheritance\Random List\obj\Debug\netcoreapp3.1\Random List.csprojAssemblyReference.cache

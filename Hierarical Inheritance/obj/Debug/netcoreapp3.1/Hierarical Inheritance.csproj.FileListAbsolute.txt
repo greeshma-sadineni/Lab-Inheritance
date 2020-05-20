@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\bin\Debug\netcoreapp3.1\Hierarical Inheritance.exe
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\bin\Debug\netcoreapp3.1\Hierarical Inheritance.deps.json
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\bin\Debug\netcoreapp3.1\Hierarical Inheritance.runtimeconfig.json
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\bin\Debug\netcoreapp3.1\Hierarical Inheritance.runtimeconfig.dev.json
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\bin\Debug\netcoreapp3.1\Hierarical Inheritance.dll
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\bin\Debug\netcoreapp3.1\Hierarical Inheritance.pdb
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.AssemblyInfo.cs
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.dll
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.pdb
+F:\.Net Programs\Lab Inheritance\Hierarical Inheritance\obj\Debug\netcoreapp3.1\Hierarical Inheritance.genruntimeconfig.cache

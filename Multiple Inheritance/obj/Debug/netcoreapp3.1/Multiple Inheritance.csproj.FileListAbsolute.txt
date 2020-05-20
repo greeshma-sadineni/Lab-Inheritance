@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.exe
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.deps.json
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.json
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.dev.json
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.dll
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfo.cs
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.dll
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+F:\.Net Programs\Lab Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.genruntimeconfig.cache
