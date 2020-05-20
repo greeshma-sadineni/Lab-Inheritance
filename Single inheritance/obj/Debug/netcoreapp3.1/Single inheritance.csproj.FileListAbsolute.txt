@@ -1,0 +1,12 @@
+F:\.Net Programs\Lab Inheritance\Single inheritance\bin\Debug\netcoreapp3.1\Single inheritance.exe
+F:\.Net Programs\Lab Inheritance\Single inheritance\bin\Debug\netcoreapp3.1\Single inheritance.deps.json
+F:\.Net Programs\Lab Inheritance\Single inheritance\bin\Debug\netcoreapp3.1\Single inheritance.runtimeconfig.json
+F:\.Net Programs\Lab Inheritance\Single inheritance\bin\Debug\netcoreapp3.1\Single inheritance.runtimeconfig.dev.json
+F:\.Net Programs\Lab Inheritance\Single inheritance\bin\Debug\netcoreapp3.1\Single inheritance.dll
+F:\.Net Programs\Lab Inheritance\Single inheritance\bin\Debug\netcoreapp3.1\Single inheritance.pdb
+F:\.Net Programs\Lab Inheritance\Single inheritance\obj\Debug\netcoreapp3.1\Single inheritance.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Inheritance\Single inheritance\obj\Debug\netcoreapp3.1\Single inheritance.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Inheritance\Single inheritance\obj\Debug\netcoreapp3.1\Single inheritance.AssemblyInfo.cs
+F:\.Net Programs\Lab Inheritance\Single inheritance\obj\Debug\netcoreapp3.1\Single inheritance.dll
+F:\.Net Programs\Lab Inheritance\Single inheritance\obj\Debug\netcoreapp3.1\Single inheritance.pdb
+F:\.Net Programs\Lab Inheritance\Single inheritance\obj\Debug\netcoreapp3.1\Single inheritance.genruntimeconfig.cache
